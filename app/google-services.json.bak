@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547904720193",
+    "project_id": "touristguide-a7c6a",
+    "storage_bucket": "touristguide-a7c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547904720193:android:488591d80d4d61ada1a5c0",
+        "android_client_info": {
+          "package_name": "com.dataflair.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547904720193-doana5235uafs9srgek644i5sh84gsvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeAZjfxi8MJCHkPu7lisbQtYixXUqscw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547904720193-doana5235uafs9srgek644i5sh84gsvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
